@@ -60,7 +60,7 @@ The script explicitly requests forecast data for **1950m (~6400ft)**. This force
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/snowpack-viewer.git](https://github.com/yourusername/snowpack-viewer.git)
+    git clone [https://github.com/CullenFra/Snotel-data-and-forcast-for-mt-bachelor-area-](https://github.com/CullenFra/Snotel-data-and-forcast-for-mt-bachelor-area-)
     cd snowpack-viewer
     ```
 
